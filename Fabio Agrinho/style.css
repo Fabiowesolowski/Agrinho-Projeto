@@ -1,7 +1,23 @@
+*{
+    margin: 0;
+    padding: 1;
+}
 
-.body {
-    background-color: #000000;
-    color: #ffffff;
+Body{
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+
+.Corpo{
+    color: rgb(253, 253, 253);
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+}
+.Corpo-div-conteudo{
+    width: 55%;
+}
+
+.Corpo-titulo{
+    padding:25px;
 }
